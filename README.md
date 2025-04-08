@@ -1,5 +1,6 @@
 # CGNFM
 Conditional Generative Model Fusion Network for Land Surface Temperature Generation
+
 data/
 ├── train/
 │   ├── 20200101/
